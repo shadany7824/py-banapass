@@ -1,4 +1,4 @@
-## 此项目在原项目上添加了串口设备的支持,可以调用PN532设备来读取banapass卡相关信息,已提交pr但作者并未合并,本仓库保留
+## This project adds support for serial port devices to the original project, enabling the use of PN532 devices to read data from BanaPassport cards. Although a pull request was submitted, the author did not merge it; this repository serves as a maintained version.
 
 # py-banapass
 
